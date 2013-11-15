@@ -1,5 +1,3 @@
-__author__ = 'jamnamdari'
-
 #!/usr/bin/env python
 
 import sys
